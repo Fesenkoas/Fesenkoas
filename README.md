@@ -35,7 +35,7 @@ mini-shope: https://profound-daffodil-d87fe8.netlify.app
 </p>
 
 test-work: https://dynamic-gumption-16e778.netlify.app
-<p align='left>
+<p align='left'>
  <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63515f6e8e555a484b9a1e19/screenshot_2022-10-20-14-47-57-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top">
 </p>
 
