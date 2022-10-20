@@ -32,7 +32,7 @@ test-work: https://dynamic-gumption-16e778.netlify.app
 
 social-redux: https://social-redux-2022.netlify.app
  <p align="left">
-<img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63519cbe32f1010008d4a00e/screenshot_2022-10-20-19-09-13-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top"></p>
+<img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63519fb79f5e7a0009f91714/screenshot_2022-10-20-19-21-55-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top"></p>
 
 
 ### Badges
