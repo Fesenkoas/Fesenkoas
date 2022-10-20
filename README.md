@@ -30,7 +30,7 @@ e-store: https://tangerine-torrone-44bc78.netlify.app
 </p>
 
 mini-shope: https://profound-daffodil-d87fe8.netlify.app
-<p align='left>
+<p align='left'>
  <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63516265351ffb4928c6e09b/screenshot_2022-10-20-15-00-37-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top">
 </p>
 
