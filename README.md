@@ -30,6 +30,8 @@ mini-shope: https://profound-daffodil-d87fe8.netlify.app
 
 test-work: https://dynamic-gumption-16e778.netlify.app
 
+social-redux: https://social-redux-2022.netlify.app
+
 
 ### Badges
 
