@@ -23,6 +23,14 @@ Hi 👋 My name is Aleksandr
 <a href="https://www.facebook.com/fesenkoas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/fesenkoas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aleksandr-fesenko-b956a5190" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
+### My App
+e-store: https://tangerine-torrone-44bc78.netlify.app
+
+mini-shope: https://profound-daffodil-d87fe8.netlify.app
+
+test-work: https://dynamic-gumption-16e778.netlify.app
+
+
 ### Badges
 
 
