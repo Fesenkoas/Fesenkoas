@@ -25,8 +25,8 @@ Hi 👋 My name is Aleksandr
 
 ### My App
 e-store: https://tangerine-torrone-44bc78.netlify.app
-<p align='left>
-  <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635167785a9b0e5d9e8ee507/screenshot_2022-10-20-15-22-41-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top">
+<p align='left'>
+ <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635167785a9b0e5d9e8ee507/screenshot_2022-10-20-15-22-41-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top">
 </p>
 
 mini-shope: https://profound-daffodil-d87fe8.netlify.app
