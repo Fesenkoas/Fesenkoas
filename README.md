@@ -23,7 +23,7 @@ Hi 👋 My name is Aleksandr
 <a href="https://www.facebook.com/fesenkoas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/fesenkoas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aleksandr-fesenko-b956a5190" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### My App
+### Link to my application
 <p align='left'>
  <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635167785a9b0e5d9e8ee507/screenshot_2022-10-20-15-22-41-0000.png" alt="e-store" width="168" height="105" loading="lazy" class="tw-align-top">
 
