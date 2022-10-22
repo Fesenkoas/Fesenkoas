@@ -24,24 +24,14 @@ Hi 👋 My name is Aleksandr
 </p>
 
 ### My App
-e-store: https://tangerine-torrone-44bc78.netlify.app
 <p align='left'>
- <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635167785a9b0e5d9e8ee507/screenshot_2022-10-20-15-22-41-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top">
-</p>
+ <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635167785a9b0e5d9e8ee507/screenshot_2022-10-20-15-22-41-0000.png" alt="e-store" width="168" height="105" loading="lazy" class="tw-align-top">
 
-mini-shope: https://profound-daffodil-d87fe8.netlify.app
-<p align='left'>
- <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63516265351ffb4928c6e09b/screenshot_2022-10-20-15-00-37-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top">
-</p>
+ <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63516265351ffb4928c6e09b/screenshot_2022-10-20-15-00-37-0000.png" alt="mini-shope" width="168" height="105" loading="lazy" class="tw-align-top">
 
-test-work: https://dynamic-gumption-16e778.netlify.app
-<p align='left'>
- <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63515f6e8e555a484b9a1e19/screenshot_2022-10-20-14-47-57-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top">
-</p>
+ <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63515f6e8e555a484b9a1e19/screenshot_2022-10-20-14-47-57-0000.png" alt="test-work" width="168" height="105" loading="lazy" class="tw-align-top">
 
-social-redux: https://social-redux-2022.netlify.app
- <p align="left">
-<img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63519fb79f5e7a0009f91714/screenshot_2022-10-20-19-21-55-0000.png" alt="" width="168" height="105" loading="lazy" class="tw-align-top">
+<img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63519fb79f5e7a0009f91714/screenshot_2022-10-20-19-21-55-0000.png" alt="social-redux" width="168" height="105" loading="lazy" class="tw-align-top">
 </p>
 
 
