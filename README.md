@@ -26,7 +26,7 @@ Hi 👋 My name is Aleksandr
 
 ### Link to my application
 <p align='left'>
- <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635167785a9b0e5d9e8ee507/screenshot_2022-10-20-15-22-41-0000.png" alt="e-store" width="168" height="105" loading="lazy" class="tw-align-top">
+ <a href="https://tangerine-torrone-44bc78.netlify.app"><img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635167785a9b0e5d9e8ee507/screenshot_2022-10-20-15-22-41-0000.png" alt="e-store" width="168" height="105" loading="lazy" class="tw-align-top"></a>
 
  <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63516265351ffb4928c6e09b/screenshot_2022-10-20-15-00-37-0000.png" alt="mini-shope" width="168" height="105" loading="lazy" class="tw-align-top">
 
