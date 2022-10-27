@@ -41,6 +41,10 @@ Hi 👋 My name is Aleksandr
 <a href="https://social-redux-2022.netlify.app" target="_blank" rel="noreferrer">
   <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63519fb79f5e7a0009f91714/screenshot_2022-10-20-19-21-55-0000.png" alt="social-redux" width="168" height="105" loading="lazy" class="tw-align-top">
   </a>
+  
+  <a href="https://polite-fudge-6f3e51.netlify.app/" target="_blank" rel="noreferrer">
+  <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635a85231774030008284d1a/screenshot_2022-10-27-13-19-01-0000.png" alt="social-redux" width="168" height="105" loading="lazy" class="tw-align-top">
+  </a>
 </p>
 
 
