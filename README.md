@@ -46,8 +46,11 @@ Hi 👋 My name is Aleksandr
   <a href="https://polite-fudge-6f3e51.netlify.app/" target="_blank" rel="noreferrer">
   <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635a85231774030008284d1a/screenshot_2022-10-27-13-19-01-0000.png" alt="social-redux" width="168" height="105" loading="lazy" class="tw-align-top">
   </a>
+  
+  <a href="https://chipper-speculoos-5c045e.netlify.app/" target="_blank" rel="noreferrer">
+  <img src="https://screenshot-proxy.netlify.app/f_avif,w_336/https://d33wubrfki0l68.cloudfront.net/63b14ed762162b00083aa1d4/screenshot_2023-01-01-09-14-34-0000.png" alt="StarWars" width="168" height="105" loading="lazy" class="tw-align-top">
+  </a>
 </p>
-
 
 ### Badges
 
