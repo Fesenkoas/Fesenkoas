@@ -1,4 +1,4 @@
-Hi 👋 My name is Aleksandr
+My name is Aleksandr
 ==========================
 *   🌍  I'm based in Израиль
 *   ✉️  You can contact me at [fesenkoas@gmail.com](mailto:fesenkoas@gmail.com)
