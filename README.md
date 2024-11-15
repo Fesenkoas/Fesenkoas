@@ -35,18 +35,6 @@ My name is Aleksandr
    <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63516265351ffb4928c6e09b/screenshot_2022-10-20-15-00-37-0000.png" alt="mini-shope" width="168" height="105" loading="lazy" class="tw-align-top"
         ></a>
 
- <a href="https://dynamic-gumption-16e778.netlify.app" target="_blank" rel="noreferrer">
-   <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63515f6e8e555a484b9a1e19/screenshot_2022-10-20-14-47-57-0000.png" alt="test-work" width="168" height="105" loading="lazy" class="tw-align-top">
-  </a>
-
-<a href="https://social-redux-2022.netlify.app" target="_blank" rel="noreferrer">
-  <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63519fb79f5e7a0009f91714/screenshot_2022-10-20-19-21-55-0000.png" alt="social-redux" width="168" height="105" loading="lazy" class="tw-align-top">
-  </a>
-  
-  <a href="https://polite-fudge-6f3e51.netlify.app/" target="_blank" rel="noreferrer">
-  <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/635a85231774030008284d1a/screenshot_2022-10-27-13-19-01-0000.png" alt="social-redux" width="168" height="105" loading="lazy" class="tw-align-top">
-  </a>
-  
   <a href="https://chipper-speculoos-5c045e.netlify.app/" target="_blank" rel="noreferrer">
   <img src="https://screenshot-proxy.netlify.app/f_avif,w_336/https://d33wubrfki0l68.cloudfront.net/63b14ed762162b00083aa1d4/screenshot_2023-01-01-09-14-34-0000.png" alt="StarWars" width="168" height="105" loading="lazy" class="tw-align-top">
   </a>
